@@ -252,6 +252,3 @@ Successfully we have made an Area of Prism calculator through server-side proces
 
 
 
-
-## Result:
-
